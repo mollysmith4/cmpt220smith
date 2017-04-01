@@ -1,4 +1,6 @@
 import java.util.Date;
+// JA: Where is the creation of the Savings and Checking accounts?
+// JA: Also, the savings account had an overdraft limit
 public class eleven_three {
 
 	public static void main(String[] args) {
